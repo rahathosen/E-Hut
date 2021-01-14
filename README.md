@@ -1,3 +1,3 @@
 # E-Hut
 
-[Live Preview](rahathosen.github.io/e-hut/)
+[Live Preview](https://rahathosen.github.io/E-Hut/)
